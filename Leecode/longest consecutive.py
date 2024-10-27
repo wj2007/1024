@@ -33,5 +33,5 @@ def longestConsecutive(nums: list[int]) -> int:
 
 case1 = [100,4,200,1,3,2]
 case2 = [1,2,0,1]
-print(f"Methon of example 1 is {longestConsecutive(case1)}")
-print(f"Methon of example 2 is {longestConsecutive(case2)}")
+print(f"Method of example 1 is {longestConsecutive(case1)}")
+print(f"Method of example 2 is {longestConsecutive(case2)}")
